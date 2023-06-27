@@ -1,3 +1,3 @@
-## TABLE: THE OCCUPANCY OF THE BITMAP AFTER 24 HOURS OF PDGF FUZZING.
+## TABLE: The occupancy of the bitmap after 24 hours of PDGF fuzzing.
 
-![Bitmap](https://github.com/SEU-SSL/PDGF-Details/blob/main/Image/bitmap%20.png)
+![Bitmap](https://github.com/SEU-SSL/PDGF-Details/blob/main/Image/bitmap%20utilization.png)
